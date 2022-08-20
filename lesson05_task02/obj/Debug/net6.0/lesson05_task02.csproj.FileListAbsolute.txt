@@ -1,0 +1,15 @@
+C:\Users\Bjorn Hatred\Desktop\THE MOST IMPORTANT FOLDER\GeekBrains\CSharp\lesson_05\lesson05_task02\bin\Debug\net6.0\lesson05_task02.exe
+C:\Users\Bjorn Hatred\Desktop\THE MOST IMPORTANT FOLDER\GeekBrains\CSharp\lesson_05\lesson05_task02\bin\Debug\net6.0\lesson05_task02.deps.json
+C:\Users\Bjorn Hatred\Desktop\THE MOST IMPORTANT FOLDER\GeekBrains\CSharp\lesson_05\lesson05_task02\bin\Debug\net6.0\lesson05_task02.runtimeconfig.json
+C:\Users\Bjorn Hatred\Desktop\THE MOST IMPORTANT FOLDER\GeekBrains\CSharp\lesson_05\lesson05_task02\bin\Debug\net6.0\lesson05_task02.dll
+C:\Users\Bjorn Hatred\Desktop\THE MOST IMPORTANT FOLDER\GeekBrains\CSharp\lesson_05\lesson05_task02\bin\Debug\net6.0\lesson05_task02.pdb
+C:\Users\Bjorn Hatred\Desktop\THE MOST IMPORTANT FOLDER\GeekBrains\CSharp\lesson_05\lesson05_task02\obj\Debug\net6.0\lesson05_task02.csproj.AssemblyReference.cache
+C:\Users\Bjorn Hatred\Desktop\THE MOST IMPORTANT FOLDER\GeekBrains\CSharp\lesson_05\lesson05_task02\obj\Debug\net6.0\lesson05_task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bjorn Hatred\Desktop\THE MOST IMPORTANT FOLDER\GeekBrains\CSharp\lesson_05\lesson05_task02\obj\Debug\net6.0\lesson05_task02.AssemblyInfoInputs.cache
+C:\Users\Bjorn Hatred\Desktop\THE MOST IMPORTANT FOLDER\GeekBrains\CSharp\lesson_05\lesson05_task02\obj\Debug\net6.0\lesson05_task02.AssemblyInfo.cs
+C:\Users\Bjorn Hatred\Desktop\THE MOST IMPORTANT FOLDER\GeekBrains\CSharp\lesson_05\lesson05_task02\obj\Debug\net6.0\lesson05_task02.csproj.CoreCompileInputs.cache
+C:\Users\Bjorn Hatred\Desktop\THE MOST IMPORTANT FOLDER\GeekBrains\CSharp\lesson_05\lesson05_task02\obj\Debug\net6.0\lesson05_task02.dll
+C:\Users\Bjorn Hatred\Desktop\THE MOST IMPORTANT FOLDER\GeekBrains\CSharp\lesson_05\lesson05_task02\obj\Debug\net6.0\refint\lesson05_task02.dll
+C:\Users\Bjorn Hatred\Desktop\THE MOST IMPORTANT FOLDER\GeekBrains\CSharp\lesson_05\lesson05_task02\obj\Debug\net6.0\lesson05_task02.pdb
+C:\Users\Bjorn Hatred\Desktop\THE MOST IMPORTANT FOLDER\GeekBrains\CSharp\lesson_05\lesson05_task02\obj\Debug\net6.0\lesson05_task02.genruntimeconfig.cache
+C:\Users\Bjorn Hatred\Desktop\THE MOST IMPORTANT FOLDER\GeekBrains\CSharp\lesson_05\lesson05_task02\obj\Debug\net6.0\ref\lesson05_task02.dll
